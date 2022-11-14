@@ -1,0 +1,2 @@
+# Salario
+ salario_inflacao
